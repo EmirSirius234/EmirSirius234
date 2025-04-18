@@ -1,4 +1,7 @@
 -  Hi, I’m @EmirSirius234
 -  I'm making a virus
 -  And I'll start doing it in Python soon.
+-  I'm currently doing it in windows forms.
+-  And.. sometimes I destroy windows too, and try some things.
+-  And sometimes I make my own site too.
 -  So that's it :D
