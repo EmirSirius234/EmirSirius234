@@ -1,2 +1,2 @@
--  Hello I am Emir Sirius, and I work with virtual machines and Windows Forms, Python, Batch files and Windows Powershell.
+-  Hello I am Emir Sirius, and I work with virtual machines and Windows Forms, Python, Batch files and Powershell.
 -  So that's it :D
